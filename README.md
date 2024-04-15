@@ -1,5 +1,5 @@
 # Machine-learning-Project
-Project Name:- Titanic Passenger Survival Prediction
+Project Name:- Titanic Survival Prediction
 
 Problem Statment:
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in
